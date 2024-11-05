@@ -1,0 +1,6 @@
+CENTER FILE nominatim_center.json
+RANGE 30
+THRESHOLD 25
+MAX 3
+AQI FILE purpleair.json
+REVERSE FILES nominatim_reverse1.json nominatim_reverse2.json nominatim_reverse3.json
